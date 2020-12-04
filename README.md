@@ -1,4 +1,4 @@
-# 10 Projects in 10 Hours
+# 10 Projects in javaScript
 
 I took on a challenge to completed 10 Projects in 10 Hours while streaming everything on [Twitch](https://twitch.tv/florinpop17).
 
